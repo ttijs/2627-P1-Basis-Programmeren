@@ -5,6 +5,6 @@ function setup() {
 function draw() {
   background(220);
 
-  circle(30, 360, 50)
+  circle(30, 360, 50);
 
 }
