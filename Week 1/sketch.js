@@ -4,4 +4,7 @@ function setup() {
 
 function draw() {
   background(220);
+
+  circl(30, 360, 50)
+
 }
